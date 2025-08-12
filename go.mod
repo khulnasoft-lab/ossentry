@@ -2,7 +2,7 @@ module github.com/khulnasoft-lab/ossentry
 
 go 1.21
 
-toolchain go1.24.4
+toolchain go1.25.0
 
 require (
 	github.com/fatih/semgroup v1.3.0
